@@ -15,12 +15,12 @@ Esta es mi solución al [Reto Recipe page component de Frontend Mentor](https://
 
 ### Captura de pantalla
 
-![](./assets/images/screenshot.png)
+![](./assets/images/screenshot.webp)
 
 ### Links
 
-- URL de la solución: [frontendmentor.io](https://www.frontendmentor.io/solutions/order-sumary-component-using-html-and-css-5h125pUav)
-- URL del proyecto: [sergitxin22.github.io/qr-code-component](https://sergitxin22.github.io/order-summary-component/)
+- URL de la solución: [frontendmentor.io](https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-WSFYXETeAJ)
+- URL del proyecto: [sergitxin22.github.io/recipe-page-component/](https://sergitxin22.github.io/recipe-page-component/)
 
 ## Tecnologías
 
