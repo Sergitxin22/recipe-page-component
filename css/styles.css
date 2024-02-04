@@ -41,12 +41,6 @@ body {
     padding-inline: 25px;
 }
 
-@media only screen and (max-width: 650px) {
-    body {
-        line-height: 1.5;
-    }
-}
-
 h1 {
     color: var(--DarkCharcoal);
     font-family: 'YoungSerif', serif;
@@ -159,6 +153,12 @@ tr td:last-child {
     font-weight: bolder;
 }
 
-@media screen {
-    
+@media only screen and (max-width: 650px) {
+    body {
+        line-height: 1.5;
+    }
+
+    .container {
+        padding: 25px;
+    }
 }
