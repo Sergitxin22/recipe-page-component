@@ -2,9 +2,9 @@
     font-family: "Outfit";
     src:
         local("Outfit"),
-        /* url(../assets/fonts/Outfit.woff2) format("woff2"),
-        url(../assets/fonts/Outfit.woff) format("woff"), */
-        url(../assets/fonts/outfit/Outfit-VariableFont_wght.ttf) format("truetype");
+        url(../assets/fonts/outfit/Outfit.woff2) format("woff2"),
+        url(../assets/fonts/outfit/Outfit.woff) format("woff"),
+        url(../assets/fonts/outfit/Outfit.ttf) format("truetype");
     font-display: swap;
 }
 
