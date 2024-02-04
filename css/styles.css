@@ -12,7 +12,7 @@
     font-family: "YoungSerif";
     src:
         local("YoungSerif"),
-        url(../assets/fonts/young-serif/YoungSerif.woff) format("woff2"),
+        url(../assets/fonts/young-serif/YoungSerif.woff2) format("woff2"),
         url(../assets/fonts/young-serif/YoungSerif.woff) format("woff"),
         url(../assets/fonts/young-serif/YoungSerif.ttf) format("truetype");
     font-display: swap;
